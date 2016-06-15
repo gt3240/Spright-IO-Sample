@@ -1,2 +1,3 @@
 # spright IO Sample
-Sample codes from Spright IO of difference features I have worked on.
+
+This a insert flow I made to insert an entity into the database.
